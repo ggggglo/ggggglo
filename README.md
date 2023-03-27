@@ -8,3 +8,6 @@ Currently Working On:
 Contact:
 - Email: glorianagonzalez@rocketmail.com
 - Linkedin: https://www.linkedin.com/in/glogonzalez/
+
+Skills & Tech: 
+- [![My Skills](https://skills.thijs.gg/icons?i=html,mongodb,mysql,nextjs,nodejs,py,react,tailwind,git,css,bootstrap,materialuijs&theme=light)](https://skills.thijs.gg)
