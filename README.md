@@ -1,7 +1,7 @@
 
 ### Currently Working On:
 - My Computer Science Degree
-- Front-End Development of a secure chat project (ReactJS, Material UI)
+- Front-End Development of a secure chat project (ReactJS, Material UI, VueJS, TalwindCSS)
 
 ### Contact:
 - Email: glorianagonzalez@rocketmail.com
